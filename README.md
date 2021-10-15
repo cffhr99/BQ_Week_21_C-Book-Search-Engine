@@ -34,4 +34,4 @@
 `WHEN I click on the Logout button`  
 `THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button`  
 ## Live Deploy Website:
-[Aeployed Application](https://shielded-mountain-99428.herokuapp.com/)
+[Deployed Application](https://shielded-mountain-99428.herokuapp.com/)
